@@ -1,0 +1,1 @@
+This is a KFC Clone Website [frontend-only] made using HTML,CSS,JS.
