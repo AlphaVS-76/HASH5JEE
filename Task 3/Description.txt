@@ -1,1 +1,0 @@
-This is the login/signup page (frontend and backend) for the KFC clone site
